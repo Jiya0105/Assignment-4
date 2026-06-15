@@ -139,13 +139,14 @@ Through this project, I learned:
 
 ---
 
+---
+
 ## Dataset Used
 
 Superstore Dataset (CSV Format)
 
 ---
 
-## Author
+## Conclusion
 
-Jiya Bhola
-B.Tech CSE
+This project successfully demonstrated the implementation of a complete Azure data pipeline using Azure Storage and Azure Data Factory. The workflow included resource creation, storage configuration, metadata validation, data transfer, and access management. The project provided practical experience with Azure cloud services and strengthened understanding of data integration and pipeline execution in a cloud environment.
